@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.tjhhh</groupId>
   <artifactId>contohproject</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.4</version>
 
 <dependencies>
   <dependency>
@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/tjhhh/Basic-Java-Maven</url>
+      <url>https://maven.pkg.github.com/tjhhh/Latihan_Tubes</url>
     </repository>
   </distributionManagement>
   
